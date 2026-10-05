@@ -10,6 +10,23 @@
 
 ### 安装技能
 
+#### 通过提示词安装
+
+将下面的提示词发送给 Codex，让它自动完成安装：
+
+```text
+帮我安装这个 Codex 技能：
+https://github.com/13inf/particle-hero-skill
+
+克隆仓库并检查 SKILL.md 及配套资源是否完整。
+如果目标目录已存在，先检查现有内容，不直接覆盖。
+
+完成后告诉我安装位置，以及如何刷新技能列表并调用 $particle-hero。
+请直接执行安装。
+```
+
+#### 手动安装
+
 Windows / PowerShell：
 
 ```powershell
@@ -108,6 +125,24 @@ Turn line art into a particle hero: on desktop, particles scatter and brighten n
 Use this Codex skill to integrate the effect into an existing project. Examples use generic copy and unbranded assets, and show only the homepage hero.
 
 ### Install the skill
+
+#### Install with a prompt
+
+Send this prompt to Codex to install the skill automatically:
+
+```text
+Install this Codex skill for me:
+https://github.com/13inf/particle-hero-skill
+
+Clone the repository and verify that SKILL.md and its supporting
+resources are present. If the destination already exists,
+inspect its contents before making changes. Do not overwrite it directly.
+
+Report the installation path and explain how to refresh the skill list
+and invoke $particle-hero. Perform the installation directly.
+```
+
+#### Manual installation
 
 Windows / PowerShell:
 

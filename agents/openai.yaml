@@ -1,0 +1,4 @@
+interface:
+  display_name: "粒子首页与手机扫光"
+  short_description: "复现线稿粒子首页，支持桌面推散回位、手机自动扫光及静态降级"
+  default_prompt: "使用 $particle-hero 为当前页面添加线稿粒子效果，保留手机自动扫光与中央文字可读性。"

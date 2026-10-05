@@ -2,10 +2,6 @@
 
 [中文](#中文) | [English](#english)
 
-![桌面演示 / Desktop preview](assets/previews/desktop.png)
-
-<img src="assets/previews/mobile.png" alt="手机自动扫光演示 / Mobile automatic sweep preview" width="320">
-
 ## 中文
 
 将线稿转换为粒子首页：桌面鼠标靠近时散开、提亮，离开后回位；手机无需触摸，自动扫光并恢复轮廓。
@@ -216,3 +212,9 @@ You can also specify the background color, particle color, artwork position, and
 ### License
 
 [MIT](LICENSE).
+
+## 效果预览 / Preview
+
+![桌面演示 / Desktop preview](assets/previews/desktop.png)
+
+<img src="assets/previews/mobile.png" alt="手机自动扫光演示 / Mobile automatic sweep preview" width="320">
